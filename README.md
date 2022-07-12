@@ -7,7 +7,7 @@
 
 ### Projetos 
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunagcris&repo=devweekgit.github.io)](https://github.com/devweekgit.github.io/github-readme-stats)
 
 ### Contatos
 
