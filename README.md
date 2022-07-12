@@ -9,6 +9,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunagcris&repo=devweekgit.github.io)](https://github.com/devweekgit.github.io/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunagcris&repo=tp_dama)](https://github.com/tp_dama/github-readme-stats)
+
 ### Contatos
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](linkedin.com/in/brunagcris)
