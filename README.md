@@ -12,11 +12,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 
-### Projetos 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunagcris&repo=devweekgit.github.io)](https://github.com/devweekgit.github.io/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunagcris&repo=tp_dama)](https://github.com/tp_dama/github-readme-stats)
 
 ### Contatos
 
